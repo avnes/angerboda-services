@@ -4,4 +4,4 @@
 
 github_owner = "avnes"
 
-cluster_name = "odin"
+cluster_name = "angerboda"

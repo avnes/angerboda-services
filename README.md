@@ -1,10 +1,10 @@
-# odin-services
+# angerboda-services
 
 My implementation of the terraform-flux repository.
 
 State is being saved to <https://app.terraform.io/>
 
-Remember to edit odin-services workspace on <https://app.terraform.io/> and set Execution Mode = Local.
+Remember to edit angerboda-services workspace on <https://app.terraform.io/> and set Execution Mode = Local.
 
 ## Usage
 

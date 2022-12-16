@@ -3,7 +3,7 @@ terraform {
     organization = "avnes"
 
     workspaces {
-      name = "odin-services"
+      name = "angerboda-services"
     }
   }
 }
